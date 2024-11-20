@@ -1,5 +1,5 @@
 # DSP-Exp9B
-NP1 .SET 0H
+INP1 .SET 0H
 INP2 .SET 1H
 OUT .SET 2H
 .mmregs
